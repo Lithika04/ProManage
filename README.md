@@ -9,7 +9,22 @@ ProManage is a **Java Swing-based** Software Project Management application with
 - **Contact Management**: Store and manage contacts with names and phone numbers.
 - **Reminder System**: Set and manage event reminders with a calendar interface.
 - **Full-Screen UI**: A professional and responsive design for better usability.
+## 📸 Preview
 
+### login page
+![Desktop page](./loginpage.png)
+
+### Dashboard Page
+![Desktop page](./dashboardpage.png)
+
+### Task Manager
+![Desktop page](./taskmanagerpage.png)
+
+### Contact Page
+![Desktop page](./contactpage.png)
+
+### Reminder Page
+![Desktop page](./lreminderpage.png)
 ## Tech Stack
 - **Java Swing**: GUI development
 - **MongoDB**: NoSQL database for data storage
