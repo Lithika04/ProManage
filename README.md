@@ -15,7 +15,7 @@ ProManage is a **Java Swing-based** Software Project Management application with
 ![Desktop page](./loginpage.png)
 
 ### Dashboard Page
-![Desktop page](./dashboardpage.png)
+![Desktop page](./dashboaardpage.png)
 
 ### Task Manager
 ![Desktop page](./taskmanagerpage.png)
@@ -24,7 +24,7 @@ ProManage is a **Java Swing-based** Software Project Management application with
 ![Desktop page](./contactpage.png)
 
 ### Reminder Page
-![Desktop page](./lreminderpage.png)
+![Desktop page](./reminderpage.png)
 ## Tech Stack
 - **Java Swing**: GUI development
 - **MongoDB**: NoSQL database for data storage
